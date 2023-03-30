@@ -1,0 +1,3 @@
+C:/Users/Asus/Desktop/UOM/CS2023 - DSA/week05_lab/cmake-build-debug/CMakeFiles/week05_lab.dir
+C:/Users/Asus/Desktop/UOM/CS2023 - DSA/week05_lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/Desktop/UOM/CS2023 - DSA/week05_lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
